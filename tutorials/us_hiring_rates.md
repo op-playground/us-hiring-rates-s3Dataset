@@ -25,6 +25,6 @@ description: This dataset provides daily updates on the volume of US job listing
 ### Access the Dataset
 
 ```execute
-cd /home/student/bucket/greenwichhr-covidjobimpacts
+cd /bucket/greenwichhr-covidjobimpacts
 ls 
 ```
