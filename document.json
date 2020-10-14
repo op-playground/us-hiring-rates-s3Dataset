@@ -3,7 +3,7 @@
   "description": "This dataset provides daily updates on the volume of US job listings",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "stack_id": "us_hiring_rates_s3_dataset",
+  "stack_id": "us-hiring-rates-s3-dataset",
   "type": "Dataset",
   "categories": [
     "Employment"
