@@ -7,7 +7,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "us_hiring_rates_s3_dataset",
+  "stack_id": "us-hiring-rates-dataset",
   "type": "Dataset",
   "categories": [
     "Employment"
