@@ -11,7 +11,7 @@
   "commands": [
     {
       "description": "Get Dataset",
-      "exec": "cd /home/
+      "exec": "cd /home/"
     }
   ],
   "platform": "Kubernetes",
